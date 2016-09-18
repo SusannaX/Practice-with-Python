@@ -1,5 +1,0 @@
-name = input("Please enter your name: ")
-age = int(input('Please enter your age: '))
-
-sentence = "Hi my name is %s and I am %d years old." % (name, age) #string interpolation 
-print(sentence)
